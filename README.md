@@ -1,6 +1,6 @@
 # PythonGUI-Notepad
 
-Simple Notepad by MOHAMMED VARALIYA using python GUI tkinter.
+A Notepad by MOHAMMED VARALIYA using python GUI tkinter.
 
 Note: I will not take any responsibility of someone else's ill act with my program. But I do believe that a real learner will learn a lot from this.<br/>
 
